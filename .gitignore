@@ -7,3 +7,6 @@ bin-release/
 .flexProperties
 .settings/
 .project
+
+# OS X folders
+.DS_Store
