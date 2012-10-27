@@ -6,7 +6,8 @@ Usage
 ---
 
 Please __DO NOT__ use the graphic assets in any commercial projects. Use them for learning purpose only.
-Feel free to use the __code__ in commercial projects. A credit to the original developer is appreciated!
+
+The ActionScript source code of this project is __FREE__. You can redistribute and/or modify it in accordance with the terms of the accompanying __Simplified BSD__ License Agreement.
 
 Overview
 ---
