@@ -21,9 +21,7 @@ power of GPU rendering or Hardware acceleration.
 Some of the features & highlights this game showcases: -
 
 * Textures
-* Animation
-  * Using GreenSock's [TweenLite](http://www.greensock.com/) Library
-	* Using Juggler in Starling Framework
+* Animation using the Juggler
 * Texture Atlas or Sprite Sheets
 * Parallax Background
 * Mouse/Touch Interaction
