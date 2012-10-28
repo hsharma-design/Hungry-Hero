@@ -42,6 +42,15 @@ Video Tutorials
 
 Learn to build this game from scratch through the video series: - [__Starting with Starling__](http://www.hsharma.com/tutorials/?series=startingWithStarling)
 
+Supporting Frameworks & Libraries
+---
+
+Please download the following frameworks & libraries for this game to compile: -
+
+* [__Starling Framework__](https://github.com/PrimaryFeather/Starling-Framework) - Commit from Oct 28 2012 or newer is recommended.
+
+* [__Particle System Extension__](https://github.com/PrimaryFeather/Starling-Extension-Particle-System) - Commit from Oct 24 2012 or newer is recommended.
+
 Concept, Design & Development
 ---
 
