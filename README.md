@@ -40,7 +40,7 @@ Play the game on - [__Hungry Hero Website__](http://www.hungryherogame.com)
 Video Tutorials
 ---
 
-Learn to build this game from scratch through the video series: - [__Starting with Starling__](http://www.hsharma.com/tutorials/?series=startingWithStarling)
+Learn to build this game from scratch through the video series: - [__Starting with Starling__](http://www.hsharma.com/tutorials/?series=starting-with-starling)
 
 Supporting Frameworks & Libraries
 ---
